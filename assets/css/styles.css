@@ -24,7 +24,7 @@ nav {
 ul {
   list-style-type: none;
 }
-a {
+nav a {
   color: #717171;
   text-decoration: none;
 }
@@ -42,7 +42,6 @@ a {
   padding: 20px 35px;
   cursor: pointer;
 }
-
 .logo {
   font-size: 30px;
   flex: 1;
@@ -52,7 +51,6 @@ a {
   font-size: 1.5em;
   color: blue;
 }
-
 .menu {
   margin-left: 8%;
   display: flex;
