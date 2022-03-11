@@ -42,6 +42,7 @@ a {
   padding: 20px 35px;
   cursor: pointer;
 }
+
 .logo {
   font-size: 30px;
   flex: 1;
@@ -51,6 +52,7 @@ a {
   font-size: 1.5em;
   color: blue;
 }
+
 .menu {
   margin-left: 8%;
   display: flex;
@@ -111,6 +113,10 @@ h2 {
 h3 {
   font-size: 1.1em;
   color: #1f3e72;
+}
+img {
+  height: 100%;
+  width: fit-content;
 }
 .row {
   display: flex;
